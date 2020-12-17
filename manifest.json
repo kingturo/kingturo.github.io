@@ -1,6 +1,6 @@
 {
-  "short_name": "My Portfolio",
-  "name": "Darren van Reenen Portfolio",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",

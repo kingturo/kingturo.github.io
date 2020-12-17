@@ -1,2 +1,0 @@
-(this["webpackJsonpportfolio-app"]=this["webpackJsonpportfolio-app"]||[]).push([[0],{90:function(t,e,i){"use strict";i.r(e);var a=i(24),c=i(1),r=i(0),o=i(18);e.default=function(t){var e=Object(r.useState)(!1);return Object(a.a)(e,1)[0]?Object(c.jsx)(o.f,{}):Object(c.jsx)(r.Fragment,{children:Object(c.jsx)(o.b,{image:"images/dark-souls-3.jpg",overline:"article",title:"Article title",caption:"article caption"})})}}}]);
-//# sourceMappingURL=Article.9a5ad8f8.chunk.js.map
